@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*~
+
+# Logs
+*.log
+
+# Local environment / config overrides
+.env
+config/database.local.php
+
+# Dependency directories (if Composer is added later)
+/vendor/
+composer.lock
