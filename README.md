@@ -9,8 +9,8 @@ Built with **plain PHP and MySQL** (no framework), the project demonstrates a
 clean separation of concerns, parameterized SQL, secure authentication, and
 role-based access control.
 
-> Originally developed as a university final project (ISIT307 — Programming for
-> the Internet). Cleaned up and documented for public reference.
+> Originally developed as a university final project (ISIT307 — Web Server
+> Programming). Cleaned up and documented for public reference.
 
 ---
 
